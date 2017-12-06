@@ -67,6 +67,7 @@ CONTACT에는 개발자들의 이메일 주소가 있어서, 언제든지 문의
 
 ![Github](./images/img/7.png)
 
+![Github](./images/img/8.png)
 
 
 *또는 페이지 하단에 있는 아이콘을 눌러서 홈페이지 자체를 공유할 수 있다.
